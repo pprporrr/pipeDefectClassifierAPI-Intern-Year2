@@ -4,9 +4,8 @@ The goal of this project is to apply computer vision techniques to analyze boile
 
 ## Getting Started
 To use the provided API for boiler damage classification, follow these steps:
-
-### 1. Clone this repository to your local machine.
-### 2. Navigate to the project directory.
+ 1. Clone this repository to your local machine.
+ 2. Navigate to the project directory.
 ### Prerequisites
 - Docker
 - Docker Compose
