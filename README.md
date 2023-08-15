@@ -10,6 +10,7 @@ To use the provided API for boiler damage classification, follow these steps:
 - Docker
 - Docker Compose
 ### Running the API
+Extract models.7z file then open terminal.
 In your terminal, run the following command to build and run the API:
 - docker-compose up --build -d
 
